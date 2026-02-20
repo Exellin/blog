@@ -2,7 +2,6 @@
 title: "Creating a Forum in Rails using Behavioral Driven Development - Part 5 - Styling and Adding Information to Topics"
 description: "Styling topics for a forum in Rails"
 pubDate: "May 17 2017"
-heroImage: "/blog-placeholder-2.jpg"
 ---
 
 Let's start by adding to and styling the topics listing page and work our way down.

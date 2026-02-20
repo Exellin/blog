@@ -2,7 +2,6 @@
 title: "Creating a Forum in Rails using Behavioral Driven Development - Part 7 - Adding a Post partial"
 description: "Creating a posts partial for a forum in Rails"
 pubDate: "Jun 6 2017"
-heroImage: "/blog-placeholder-2.jpg"
 ---
 
 For this lesson we won't be writing any new tests as we aren't adding any new content.  We will be simply moving around content in files and relying on our tests already written to make sure we don't break anything in the process.

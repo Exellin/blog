@@ -2,7 +2,6 @@
 title: "Creating a Forum in Rails using Behavioral Driven Development - Part 4 - Deleting the Models"
 description: "Adding ability to delete records for a forum in Rails"
 pubDate: "May 4 2017"
-heroImage: "/blog-placeholder-2.jpg"
 ---
 
 Like with editing, we want the ability for a user to delete their post or comment.  However when the user deletes a post, we still want to keep the comments as well as their structure so that other users content is not destroyed.  Likewise when a comment is deleted, we want the child comments to still exist and still be structured in a way that makes sense underneath.

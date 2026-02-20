@@ -2,7 +2,6 @@
 title: "Creating a Forum in Rails using Behavioral Driven Development - Part 2 - Creating Comments"
 description: "Creating comments for a forum in Rails"
 pubDate: "Apr 18 2017"
-heroImage: "/blog-placeholder-2.jpg"
 ---
 
 Following the same format as part 1, we will start off with creating the factory, model file, and model spec.  Since we will be dealing with 2 different types of comments: The Comment replying to a post and the comment replying to a comment, we should have a factory for each so we can properly test each of them.  The child comment will inherit from the comment factory with the addition of an association between the two.

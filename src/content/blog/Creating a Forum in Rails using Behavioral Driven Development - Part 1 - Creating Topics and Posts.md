@@ -2,7 +2,6 @@
 title: "Creating a Forum in Rails using Behavioral Driven Development - Part 1 - Creating Topics and Posts"
 description: "Creating topics and posts for a forum in Rails"
 pubDate: "Mar 25 2017"
-heroImage: "/blog-placeholder-2.jpg"
 ---
 
 I'll be creating a forum from scratch for a client in this blog post.  In the application I have already created users with devise so I won't be going through that process.

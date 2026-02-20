@@ -2,7 +2,6 @@
 title: "Why I decided to pursue web development as my prospective career"
 description: "Why I decided to pursue web development"
 pubDate: "May 8 2016"
-heroImage: "/blog-placeholder-2.jpg"
 ---
 
 I graduated with a undergraduate degree in Mechanical engineering 2 years ago now.  Since then I have spent time applying for jobs, applying for master’s degrees, and updating my resume and cover letter more times than I can remember.  After all of this, I am in no better position for a company to want to hire me than the day I graduated.  If anything I am now less valuable since the few skills I learned in school that might be applicable in field (if there are any) are now less fresh in my mind and I have to compete with new graduates for positions.

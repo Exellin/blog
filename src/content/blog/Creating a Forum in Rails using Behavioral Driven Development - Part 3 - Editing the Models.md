@@ -2,7 +2,6 @@
 title: "Creating a Forum in Rails using Behavioral Driven Development - Part 3 - Editing the Models"
 description: "Creating Topics and Posts for a forum in Rails"
 pubDate: "May 2 2017"
-heroImage: "/blog-placeholder-2.jpg"
 ---
 
 First we need to look at what models and properties we want to have the ability to edit.  For Topics which only an administrator can create they should not be editable.  This is becauase if there is a significant amount of content underneath the topic and it is changed, none of the posts underneath may be relevant or make sense.

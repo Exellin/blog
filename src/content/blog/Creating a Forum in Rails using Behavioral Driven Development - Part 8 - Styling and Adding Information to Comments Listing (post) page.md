@@ -2,7 +2,6 @@
 title: "Creating a Forum in Rails using Behavioral Driven Development - Part 8 - Styling and Adding Information to Comments Listing (post) page"
 description: "Styling comments for a forum in Rails"
 pubDate: "Jun 8 2017"
-heroImage: "/blog-placeholder-2.jpg"
 ---
 
 The post page is comprised of 2 halfs.  The content of the post and the listing of comments belonging to the post.  We just finished styling the post in both the listing page and then rendered out the content in a partial to use in the post page.  To finish up the basics of the forum the only thing we have left to do is to style and orgnaize the comments.

@@ -2,7 +2,6 @@
 title: "Creating a Forum in Rails using Behavioral Driven Development - Part 6 - Styling and Adding Information to Posts listing (topic) page"
 description: "Styling posts for a forum in Rails"
 pubDate: "Jun 1 2017"
-heroImage: "/blog-placeholder-2.jpg"
 ---
 
 Now we are ready to add styling and content to the posts listing (topic show) page.  This will be very similar to the topics listing page with the few differences being information about the topic the posts is in, and the metadata being about comments within the posts instead of posts within the topic.
